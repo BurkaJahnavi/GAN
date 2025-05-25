@@ -6,10 +6,15 @@ This project uses Generative Adversarial Networks (GANs) to impute missing attri
 Problem Statement:
 Real-world agricultural datasets often contain missing information such as:
 -Soil moisture
+
 -Humidity
+
 -Sunlight hours
+
 -Crop variety
+
 -Pesticide usage
+
 This project addresses the challenge by using GANs to fill in the missing data intelligently and accurately.
 
 Methodology
